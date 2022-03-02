@@ -28,23 +28,30 @@
 	<div class="card-container">
 	<div class="card">
 		<div class="card-icon-ochre"><i class="fa-solid fa-edit fa-2xl"></i></div>
-    <div class="card-text">Prueba</div>
-    <div class="card-text1">Cantidad de servicios recibidos</div>
+    	<div class="card-text">Prueba</div>
+    	<div class="card-text1">Cantidad de servicios recibidos</div>
 	</div>
 	<div class="card">
 		<div class="card-icon-green"><i class="fa-solid fa-edit fa-2xl"></i></div>
-    <div class="card-text">Prueba</div>
-    <div class="card-text1">Cantidad de servicios aprobados</div>
+    	<div class="card-text">Prueba</div>
+    	<div class="card-text1">Cantidad de servicios aprobados</div>
 	</div>
 	<div class="card">
 		<div class="card-icon-red"><i class="fa-solid fa-edit fa-2xl"></i></div>
-    <div class="card-text">Prueba</div>
-    <div class="card-text1">Cantidad de servicios rechazados</div>
+    	<div class="card-text">Prueba</div>
+    	<div class="card-text1">Cantidad de servicios rechazados</div>
 	</div>
 	<div class="card">
 		<div class="card-icon-ochre"><i class="fa-solid fa-edit fa-2xl"></i></div>
-    <div class="card-text">Prueba</div>
-    <div class="card-text1">Cantidad de servicios activos</div>
+    	<div class="card-text">Prueba</div>
+    	<div class="card-text1">Cantidad de servicios activos</div>
+	</div>
+	</div>
+
+	<div class="card-container">
+	<div class="card-alert">
+		<div class="card-icon-alert"></div>
+		
 	</div>
 	</div>
 </body>
