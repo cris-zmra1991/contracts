@@ -13,13 +13,13 @@
 		<div class="first-group">
 			<span class="icon"><i class="fa-solid fa-edit fa-lg"></i></span> 
 			<div class="menu-item"><a href="#">Inicio</a></div>
-			<div class="menu-item"><a href="#">Listado</a></div>
+			<div class="menu-item"><a href="http://localhost:8030/Contracts/list">Listado</a></div>
 			<div class="menu-item"><a href="#">Añadir</a></div>
 			<div class="menu-item"><a href="#">Actualizar</a></div>
 			<div class="menu-item"><a href="#">Nomencladores</a></div>
 		</div>
 		<div class="first-group">
-			<div class="menu-item"><a href="http://localhost:8030/Contracts/config/close.php"><i class="fa-solid fa-sign-out"></i></a></div>
+			<div class="menu-item"><a href="http://localhost:8030/Contracts/log-out"><i class="fa-solid fa-sign-out"></i></a></div>
 		</div>
 	</div>
 

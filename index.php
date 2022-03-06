@@ -9,9 +9,9 @@ if (isset($_SESSION['usuario'])) {
     header('Location: '.RUTA.'config/validate.php');
     }
   elseif ($data > '1') {
-    header('Location: '.RUTA.'login');
+    header('Location: '.RUTA.'log-in');
     }
 }else {
-header('Location: '.RUTA.'login');
+header('Location: '.RUTA.'log-in');
 }
 ?>

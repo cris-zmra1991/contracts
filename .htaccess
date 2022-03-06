@@ -1,8 +1,9 @@
 Options +FollowSymLinks
 RewriteEngine on
 
-RewriteRule ^login$ php/login.php [QSA]
+RewriteRule ^log-in$ php/login.php [QSA]
 RewriteRule ^admin$ php/admin.php [QSA]
 RewriteRule ^user$ php/user.php [QSA]
-RewriteRule ^log-out$ res/php/user_actions/log-out.php [QSA]
+RewriteRule ^list$ php/list.user.php [QSA]
+RewriteRule ^log-out$ config/close.php [QSA]
 
