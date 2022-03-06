@@ -93,7 +93,6 @@ body{
 	left: 15px;
 	border-radius: 4px;
 	box-shadow: 0px 0px 2px 1px rgba(0,0,0,0.6);
-	color: #fff;
 }
 .card-icon-red{
 	display: flex;
@@ -107,6 +106,24 @@ body{
 	left: 15px;
 	border-radius: 4px;
 	box-shadow: 0px 0px 2px 1px rgba(0,0,0,0.6);
+}
+.card-icon-blue{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+  	width: 60px;
+	height: 60px;
+	background-color: #0f61db;
+	position: absolute;
+	bottom: 35px;
+	left: 15px;
+	border-radius: 4px;
+	box-shadow: 0px 0px 2px 1px rgba(0,0,0,0.6);
+}
+.card-icon-ochre i,
+.card-icon-green i,
+.card-icon-blue,
+.card-icon-red i{
 	color: #fff;
 }
 .card-text{
